@@ -1,3 +1,5 @@
-test_progs/
+Lib/
+Scripts/
+pyvenv.cfg
+CACHEDIR.TAG
 __pycache__/
-*.db
